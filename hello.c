@@ -4,7 +4,8 @@
 
 int main(int argc, char **argv) {
 
-    prinf("Hello World, I am Huy!\n");
+    prinf("Hello, I am Huy!\n");
+    printf("My major is computer science!\n")
 
     return 0;
 }
